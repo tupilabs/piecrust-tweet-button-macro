@@ -1,0 +1,5 @@
+repo: eb67f3e920b04ba3348a39c989972f1134030fa5
+node: 73b63fbb517a17aa59e567762059353e8f544715
+branch: stable
+latesttag: version_1.0.0-rc2
+latesttagdistance: 12
